@@ -53,7 +53,7 @@ public class MainApplication extends Application implements ReactApplication {
     // this is the instance of the application class and "XXXXXXXXXXX" is the APP ID from the dashboard.
  //moengage SDK initialisation
   MoEngage moEngage =
-       new MoEngage.Builder(this, "DAO6UGZ73D9RTK8B5W96TPYN")
+       new MoEngage.Builder(this, "XXXXXXXXXXX")
        .setNotificationSmallIcon(R.drawable.ic_launcher)
        .setNotificationLargeIcon(R.drawable.ic_launcher_round)
        .setLogLevel(Logger.VERBOSE)
